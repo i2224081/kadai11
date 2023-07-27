@@ -1,0 +1,72 @@
+body{
+    height: 100%;
+}
+
+.size-small{
+    font-size: 12px;
+  }
+  .size-midium{
+    font-size: 16px;
+  }
+  .size-large{
+    font-size: 20px;
+  }
+  .size-xlarge{
+    font-size: 24px;
+  }
+  .size-xxlarge{
+    font-size: 28px;
+  }
+  .hai {
+    /* padding: 100px; */
+    height: 100%;
+  background-image: url('web_hpngaikei.png');
+  background-size: cover;
+  background-position: center center; /* 背景画像を中央に配置 */
+}
+.jj{
+  padding: 0;
+}
+.an{
+    background-color: black;
+    padding: 3% 0;
+    position: sticky;
+    top: 0;
+}
+
+.an h1, .an li,an a{
+    color: white;
+}
+.portfolio-footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .footer-content p {
+    margin-bottom: 10px;
+  }
+  
+  .social-icons {
+    margin-top: 10px;
+    text-align: center; /* ソーシャルアイコンを中央揃えにする */
+  }
+  
+.icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-color: #007bff;
+    color: #ffffff;
+    text-align: center;
+    line-height: 30px;
+    margin: 0 5px;
+    text-decoration: none;
+    border-radius: 50%;
+  }
